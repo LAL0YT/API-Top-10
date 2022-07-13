@@ -1,0 +1,81 @@
+[
+    {
+        "logo":"IMG/logo1.png"
+    },
+    {
+        "nombre":"Me porto bonito",
+        "posicion":"1",
+        "artista1":"Bad Bunny",
+        "artista2":"Chencho Corleone",
+        "visitas":"115",
+        "imagen": "IMG/cancion1.jpg"
+    },
+
+    {
+        "nombre":"Tití me preguntó",
+        "posicion":"2",
+        "artista1":"Bad Bunny",
+        "visitas":"217",
+        "imagen":"IMG/cancion1.jpg"
+    },
+
+    {
+        "nombre":"PROVENZA",
+        "posicion":"3",
+        "artista1":"KAROL G",
+        "visitas":"291",
+        "imagen":"IMG/provenza.jpg"
+    },
+
+    {
+        "nombre":"Te Felicito",
+        "posicion":"4",
+        "artista1":"Shakira",
+        "artista2":"Rauw Alejandro",
+        "visitas":"225",
+        "imagen":"IMG/te felicito.jpg"
+    },
+    {
+        "nombre":"En El Radio Un Cochinero",
+        "posicion":"5",
+        "artista1":"Victor Cibrian",
+        "visitas":"56",
+        "imagen":"IMG/en el radio un cochinero.jpg"
+    },
+    {
+        "nombre":"Chale",
+        "posicion":"6",
+        "artista1":"Edén Muñoz",
+        "visitas":"169",
+        "imagen":"IMG/chale.jpg"
+    },
+    {
+        "nombre":"Luka",
+        "posicion":"7",
+        "artista1":"Santa Fe Klan",
+        "visitas":"6.5",
+        "imagen":"IMG/luka.jpg"
+    },
+    {
+        "nombre":"Cnv Sound, Vol. 14",
+        "posicion":"8",
+        "artista1":"Pure Negga",
+        "visitas":"85",
+        "imagen":"IMG/Cnv Sound, Vol.14.jpg"
+    },
+    {
+        "nombre":"Moscow Mule",
+        "posicion":"9",
+        "artista1":"Bad Bunny",
+        "visitas":"147",
+        "imagen":"IMG/cancion1.jpg"
+    },
+    {
+        "nombre":"Tú",
+        "posicion":"10",
+        "artista1":"Grupo Firme",
+        "artista2":"Los Elegantes De Jerez",
+        "visitas":"14",
+        "imagen":"tu.jpg"
+    }
+]
