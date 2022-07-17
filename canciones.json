@@ -6,7 +6,9 @@
         "nombre":"Me porto bonito",
         "posicion":"1",
         "artista1":"Bad Bunny",
+        "lartista1":"https://music.youtube.com/channel/UCiY3z8HAGD6BlSNKVn2kSvQ",
         "artista2":"Chencho Corleone",
+        "lartista2":"https://music.youtube.com/channel/UC4_xgMYQfEUnKTAuuys62JQ",
         "visitas":"115",
         "imagen": "IMG/cancion 1.jpg"
     },
@@ -15,6 +17,7 @@
         "nombre":"Tití me preguntó",
         "posicion":"2",
         "artista1":"Bad Bunny",
+        "lartista1":"https://music.youtube.com/channel/UCiY3z8HAGD6BlSNKVn2kSvQ",
         "visitas":"217",
         "imagen":"IMG/cancion 1.jpg"
     },
@@ -23,6 +26,7 @@
         "nombre":"PROVENZA",
         "posicion":"3",
         "artista1":"KAROL G",
+        "lartista1":"https://music.youtube.com/channel/UC7n3gWRN0vQzgiOKc51aZ4w",
         "visitas":"291",
         "imagen":"IMG/provenza.jpg"
     },
@@ -31,7 +35,9 @@
         "nombre":"Te Felicito",
         "posicion":"4",
         "artista1":"Shakira",
+        "lartista1":"https://music.youtube.com/channel/UCo6JijJGA3IvIiPsawDK3Ww",
         "artista2":"Rauw Alejandro",
+        "lartista2":"https://music.youtube.com/channel/UCw_m17sBd4GHxuK83-AZtuA",
         "visitas":"225",
         "imagen":"IMG/te felicito.jpg"
     },
@@ -39,6 +45,7 @@
         "nombre":"En El Radio Un Cochinero",
         "posicion":"5",
         "artista1":"Victor Cibrian",
+        "lartista1":"https://music.youtube.com/channel/UCDyfUKv9GHQ3h6XuWPpZhlA",
         "visitas":"56",
         "imagen":"IMG/en el radio un cochinero.jpg"
     },
@@ -46,6 +53,7 @@
         "nombre":"Chale",
         "posicion":"6",
         "artista1":"Edén Muñoz",
+        "lartista1":"https://music.youtube.com/channel/UCtPkOPsVxV6wG2M2xoIE4hg",
         "visitas":"169",
         "imagen":"IMG/chale.jpg"
     },
@@ -53,6 +61,7 @@
         "nombre":"Luka",
         "posicion":"7",
         "artista1":"Santa Fe Klan",
+        "lartista1":"https://music.youtube.com/channel/UC1t2O7UhGmJVT903LC4dEUA",
         "visitas":"6.5",
         "imagen":"IMG/luka.jpg"
     },
@@ -60,6 +69,7 @@
         "nombre":"Cnv Sound, Vol.14",
         "posicion":"8",
         "artista1":"Pure Negga",
+        "lartista1":"https://music.youtube.com/channel/UCsXNScvoGTun3WFtZ0nmwiw",
         "visitas":"85",
         "imagen":"IMG/cacion3.jpg"
     },
@@ -67,6 +77,7 @@
         "nombre":"Moscow Mule",
         "posicion":"9",
         "artista1":"Bad Bunny",
+        "lartista1":"https://music.youtube.com/channel/UCiY3z8HAGD6BlSNKVn2kSvQ",
         "visitas":"147",
         "imagen":"IMG/cancion 1.jpg"
     },
@@ -74,7 +85,9 @@
         "nombre":"Tú",
         "posicion":"10",
         "artista1":"Grupo Firme",
+        "lartista1":"https://music.youtube.com/channel/UCJKREB2c3dO8dgdo8FtdO_A",
         "artista2":"Los Elegantes De Jerez",
+        "lartista2":"https://music.youtube.com/channel/UCBDxYeIKWDBL1mkX9HaIbuQ",
         "visitas":"14",
         "imagen":"IMG/tu.jpg"
     }
