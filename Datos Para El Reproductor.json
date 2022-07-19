@@ -1,7 +1,8 @@
 [
     {
         "nombre" : "Me porto bonito",
-        "descripccion": "Bad Bunny Y Chencho Corleone",
+        "artista1": "Bad Bunny",
+        "artista2": "Chencho Corleone",
         "visitas":"115M De Visitas",
         "año":"2022",
         "album":"Un Verano Sin Tí",
