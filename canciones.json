@@ -10,6 +10,7 @@
         "artista2":"Chencho Corleone",
         "lartista2":"https://music.youtube.com/channel/UC4_xgMYQfEUnKTAuuys62JQ",
         "visitas":"115",
+        "audio": ".mp3/Bad Bunny - Me Porto Bonito (Letra - Lyrics) ft. Chencho Corleone.mp3",
         "imagen": "IMG/cancion1.jpg"
     },
 
@@ -19,6 +20,7 @@
         "artista1":"Bad Bunny",
         "lartista1":"https://music.youtube.com/channel/UCiY3z8HAGD6BlSNKVn2kSvQ",
         "visitas":"217",
+        "audio":".mp3/Bad Bunny - Tití Me Preguntó (Letra - Lyrics).mp3",
         "imagen":"IMG/cancion1.jpg"
     },
 
@@ -28,6 +30,7 @@
         "artista1":"KAROL G",
         "lartista1":"https://music.youtube.com/channel/UC7n3gWRN0vQzgiOKc51aZ4w",
         "visitas":"291",
+        "audio":".mp3/KAROL G - PROVENZA (Official Video).mp3",
         "imagen":"IMG/provenza.jpg"
     },
 
@@ -39,6 +42,7 @@
         "artista2":"Rauw Alejandro",
         "lartista2":"https://music.youtube.com/channel/UCw_m17sBd4GHxuK83-AZtuA",
         "visitas":"225",
+        "audio":".mp3/Shakira, Rauw Alejandro - Te Felicito (Official Video).mp3",
         "imagen":"IMG/tefelicito.jpg"
     },
     {
@@ -47,6 +51,7 @@
         "artista1":"Victor Cibrian",
         "lartista1":"https://music.youtube.com/channel/UCDyfUKv9GHQ3h6XuWPpZhlA",
         "visitas":"56",
+        "audio":".mp3/.mp3",
         "imagen":"IMG/enelradiouncochinero.jpg"
     },
     {
@@ -55,6 +60,7 @@
         "artista1":"Edén Muñoz",
         "lartista1":"https://music.youtube.com/channel/UCtPkOPsVxV6wG2M2xoIE4hg",
         "visitas":"169",
+        "audio":".mp3/Eden Muñoz - Chale (Video Oficial).mp3",
         "imagen":"IMG/chale.jpg"
     },
     {
@@ -63,6 +69,7 @@
         "artista1":"Santa Fe Klan",
         "lartista1":"https://music.youtube.com/channel/UC1t2O7UhGmJVT903LC4dEUA",
         "visitas":"6.5",
+        "audio":".mp3/Santa Fe Klan - Luka (Video Oficial).mp3",
         "imagen":"IMG/luka.jpg"
     },
     {
@@ -71,6 +78,7 @@
         "artista1":"Pure Negga",
         "lartista1":"https://music.youtube.com/channel/UCsXNScvoGTun3WFtZ0nmwiw",
         "visitas":"85",
+        "audio":".mp3/PURE NEGGA - Cnv Sound Vol.14 - Slowed (Letra).mp3",
         "imagen":"IMG/cacion3.jpg"
     },
     {
@@ -79,6 +87,7 @@
         "artista1":"Bad Bunny",
         "lartista1":"https://music.youtube.com/channel/UCiY3z8HAGD6BlSNKVn2kSvQ",
         "visitas":"147",
+        "audio":".mp3/Bad Bunny - Moscow Mule (La Letra - Lyrics).mp3",
         "imagen":"IMG/cancion1.jpg"
     },
     {
@@ -89,6 +98,7 @@
         "artista2":"Los Elegantes De Jerez",
         "lartista2":"https://music.youtube.com/channel/UCBDxYeIKWDBL1mkX9HaIbuQ",
         "visitas":"14",
+        "audio":".mp3/Grupo Firme  + Los Elegantes De Jerez - Tu (Official Video) 2022.mp3",
         "imagen":"IMG/tu.jpg"
     },
     {
